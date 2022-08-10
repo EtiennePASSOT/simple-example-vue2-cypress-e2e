@@ -1,11 +1,13 @@
 # simple-example-vue2-cypress-e2e
 
+[Same example with testCafe](https://github.com/EtiennePASSOT/simple-example-vue2-testcafe-e2e)
+
 ## Project setup
 ```
 yarn install
 ```
 
-## Launch tests
+## Run tests
 
 First, run local server :
 ```
