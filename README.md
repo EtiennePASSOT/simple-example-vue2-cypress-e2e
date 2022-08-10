@@ -5,25 +5,19 @@
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Launch tests
+
+First, run local server :
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+Then, run cypress interface with :
 ```
-yarn build
-```
-
-### Run your end-to-end tests
-```
-yarn test:e2e
+yarn cy:open
 ```
 
-### Lints and fixes files
+or only tests with :
 ```
-yarn lint
+yarn cy:run
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
